@@ -1,9 +1,7 @@
 <img width="1536" height="1024" alt="Copilot_20260701_013624" src="https://github.com/user-attachments/assets/8c5a7e77-55fc-42dd-bd6f-2b1013675f49" />
 
 <p align="center"><i>"Learning never exhausts the mind." ~ Leonardo da Vinci</i></p> 
-
 ---
-
 ## About:
 I'm Syed, an AI enthusiast and engineer-in-training based in Rawalpindi. Currently pursuing my **BS in Artificial Intelligence at FAST University**, I focus on building practical AI systems and pipelines. My interests span **RAG systems, NLP, machine learning fundamentals, and computer networking**, with hands-on experience in structuring knowledge bases and experimenting with conversational systems.
 
@@ -30,20 +28,22 @@ open to:
   - Freelance system builds
   - Research-oriented AI projects
 🌐 Portfolio
-[[Your GitHub Pages / Portfolio link here]](https://www.linkedin.com/in/ssr-ai-engineer/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white)](https://p250045-SSR.github.io)
 
-🛠️ Tools I Use
-https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white  
-https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white  
-https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white  
-https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white  
-https://img.shields.io/badge/HuggingFace-ffcc00?logo=huggingface&logoColor=black  
-https://img.shields.io/badge/LlamaIndex-000000?logo=llama&logoColor=white  
-https://img.shields.io/badge/ChromaDB-009688?logo=databricks&logoColor=white  
-https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white  
-https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white  
-https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white  
-https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black
+AI TOOLS/MODELS 
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-ffcc00?logo=huggingface&logoColor=black)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?logo=llama&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-009688?logo=databricks&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
 
 ===Completed Projects===
 
