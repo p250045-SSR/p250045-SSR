@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="Copilot_20260701_013624" src="https://github.com/user-attachments/assets/8c5a7e77-55fc-42dd-bd6f-2b1013675f49" />
 <h1 align="center">Syed Shayan Rizvi</h1>
 <h3 align="center">AI Engineer | RAG Systems | NLP | Machine Learning</h3>
 
