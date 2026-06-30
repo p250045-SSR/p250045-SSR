@@ -1,4 +1,4 @@
-<h1 align="center">Syed</h1>
+<h1 align="center">Syed Shayan Rizvi</h1>
 <h3 align="center">AI Engineer | RAG Systems | NLP | Machine Learning</h3>
 
 <p align="center">
