@@ -27,11 +27,7 @@
   <img src="https://komarev.com/ghpvc/?username=p250045-SSR&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
-<p align="center"><i>"Learning never exhausts the mind." ~ Leonardo da Vinci</i></p>
-
-Profile Views  
-
-*"Learning never exhausts the mind." ~ Leonardo da Vinci*  
+<p align="center"><i>"Learning never exhausts the mind." ~ Leonardo da Vinci</i></p> 
 
 ---
 
@@ -61,7 +57,7 @@ open to:
   - Freelance system builds
   - Research-oriented AI projects
 🌐 Portfolio
-[Your GitHub Pages / Portfolio link here]
+[[Your GitHub Pages / Portfolio link here]](https://www.linkedin.com/in/ssr-ai-engineer/)
 
 🛠️ Tools I Use
 https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white  
@@ -76,7 +72,8 @@ https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white
 https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white  
 https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black
 
-🚀 Projects Worth a Look
+===Completed Projects===
+
 Student Management System  
 A practical academic project showcasing database design and CRUD operations.
 Tech: Python, SQLite
