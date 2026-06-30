@@ -1,32 +1,4 @@
 <img width="1536" height="1024" alt="Copilot_20260701_013624" src="https://github.com/user-attachments/assets/8c5a7e77-55fc-42dd-bd6f-2b1013675f49" />
-<h1 align="center">Syed Shayan Rizvi</h1>
-<h3 align="center">AI Engineer | RAG Systems | NLP | Machine Learning</h3>
-
-<p align="center">
-  <b>AI Engineer | FAST University | Building Intelligent Systems</b>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://p250045-SSR.github.io">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/yourprofile">
-    <img src="https://img.shields.io/badge/UPWORK-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/yourprofile">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=p250045-SSR&label=Profile%20Views&color=blue&style=flat" />
-</p>
 
 <p align="center"><i>"Learning never exhausts the mind." ~ Leonardo da Vinci</i></p> 
 
