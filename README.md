@@ -7,12 +7,12 @@ Profile Views
 
 ---
 
-## 👨‍💻 A bit about me
+## About:
 I'm Syed, an AI enthusiast and engineer-in-training based in Rawalpindi. Currently pursuing my **BS in Artificial Intelligence at FAST University**, I focus on building practical AI systems and pipelines. My interests span **RAG systems, NLP, machine learning fundamentals, and computer networking**, with hands-on experience in structuring knowledge bases and experimenting with conversational systems.
 
 ---
 
-### 📌 Quick Facts
+### My Info:
 ```yaml
 name:       Syed
 role:       AI Engineer (in training)
