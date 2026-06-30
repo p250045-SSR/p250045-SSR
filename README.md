@@ -3,6 +3,7 @@
 <p align="center"><i>"Learning never exhausts the mind." ~ Leonardo da Vinci</i></p> 
 ---
 ## About:
+
 I'm Syed, an AI enthusiast and engineer-in-training based in Rawalpindi. Currently pursuing my **BS in Artificial Intelligence at FAST University**, I focus on building practical AI systems and pipelines. My interests span **RAG systems, NLP, machine learning fundamentals, and computer networking**, with hands-on experience in structuring knowledge bases and experimenting with conversational systems.
 
 ---
@@ -75,9 +76,4 @@ Code
 
 ---
 
-### 🔑 How it works
-- **Badges**: These are just Markdown image links from [shields.io]. GitHub automatically fetches and displays them.  
-- **Stats**: The `vercel.app` links auto‑generate your GitHub stats and top languages. They update live.  
-- **Contribution Snake**: Requires a GitHub Action workflow (`snake.yml`) in your repo. Once set up, it updates automatically.  
 
-Would you like me to also give you the **GitHub Action workflow file** (`snake.yml`) s
