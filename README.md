@@ -32,3 +32,54 @@ open to:
   - AI collaborations
   - Freelance system builds
   - Research-oriented AI projects
+🌐 Portfolio
+[Your GitHub Pages / Portfolio link here]
+
+🛠️ Tools I Use
+https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white  
+https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white  
+https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white  
+https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white  
+https://img.shields.io/badge/HuggingFace-ffcc00?logo=huggingface&logoColor=black  
+https://img.shields.io/badge/LlamaIndex-000000?logo=llama&logoColor=white  
+https://img.shields.io/badge/ChromaDB-009688?logo=databricks&logoColor=white  
+https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white  
+https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white  
+https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white  
+https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black
+
+🚀 Projects Worth a Look
+Student Management System  
+A practical academic project showcasing database design and CRUD operations.
+Tech: Python, SQLite
+
+Library Management System  
+Built for coursework, focusing on structured data handling and user workflows.
+Tech: C++, OOP
+
+AI Internship @ Inara Technologies  
+Contributed to GitHub documentation and AI pipeline design.
+Focus: RAG systems, documentation, conversational AI
+
+📊 GitHub Stats
+https://github-readme-stats.vercel.app/api?username=p250045-SSR&show_icons=true&theme=radical  
+https://github-readme-stats.vercel.app/api/top-langs/?username=p250045-SSR&layout=compact&theme=radical
+
+Contribution graph:
+https://github.com/p250045-SSR/p250045-SSR/blob/output/github-contribution-grid-snake.svg
+
+📈 Activity Overview
+Code reviews, commits, and pull requests across AI and system projects
+
+Contributions to repositories focused on AI pipelines, trading scripts, and academic builds
+
+Code
+
+---
+
+### 🔑 How it works
+- **Badges**: These are just Markdown image links from [shields.io]. GitHub automatically fetches and displays them.  
+- **Stats**: The `vercel.app` links auto‑generate your GitHub stats and top languages. They update live.  
+- **Contribution Snake**: Requires a GitHub Action workflow (`snake.yml`) in your repo. Once set up, it updates automatically.  
+
+Would you like me to also give you the **GitHub Action workflow file** (`snake.yml`) s
